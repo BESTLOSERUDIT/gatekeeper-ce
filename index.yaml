@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  gatekeeperdevchart:
+  - apiVersion: v2
+    appVersion: 3.7.0
+    created: "2022-03-15T19:06:49.0501068+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 1117dfefb2434db8e066b50630225a4bbfaf804e65ef5ba42be608b003c29a17
+    name: gatekeeperdevchart
+    type: application
+    urls:
+    - https://bestloserudit.github.io/gatekeeper-ce/gatekeeperdevchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-03-15T19:06:49.0444933+05:30"
